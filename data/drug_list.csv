@@ -1,0 +1,35 @@
+group,drug,generic,reporting_company_hint
+abbvie_amgen,Skyrizi,risankizumab,AbbVie
+abbvie_amgen,Rinvoq,upadacitinib,AbbVie
+abbvie_amgen,Otezla,apremilast,Celgene (to Q3 2019) then Amgen
+lilly,Taltz,ixekizumab,Eli Lilly
+lilly,Olumiant,baricitinib,Eli Lilly
+lilly,Omvoh,mirikizumab,Eli Lilly
+lilly,Ebglyss,lebrikizumab,Eli Lilly (US)
+jnj,Stelara,ustekinumab,Johnson & Johnson
+jnj,Simponi,golimumab,Johnson & Johnson (Simponi/Simponi Aria as reported)
+jnj,Tremfya,guselkumab,Johnson & Johnson
+bms,Orencia,abatacept,Bristol Myers Squibb
+bms,Zeposia,ozanimod,Bristol Myers Squibb
+bms,Sotyktu,deucravacitinib,Bristol Myers Squibb
+pfizer_novartis,Xeljanz,tofacitinib,Pfizer
+pfizer_novartis,Velsipity,etrasimod,Pfizer
+pfizer_novartis,Cibinqo,abrocitinib,Pfizer
+pfizer_novartis,Cosentyx,secukinumab,Novartis
+sanofi_roche,Dupixent,dupilumab,Sanofi (Regeneron reports collaboration figures)
+sanofi_roche,Kevzara,sarilumab,Sanofi
+sanofi_roche,Actemra,tocilizumab,Roche (Actemra/RoActemra)
+az_gsk,Fasenra,benralizumab,AstraZeneca
+az_gsk,Saphnelo,anifrolumab,AstraZeneca
+az_gsk,Tezspire,tezepelumab,AstraZeneca and Amgen
+az_gsk,Nucala,mepolizumab,GSK
+az_gsk,Benlysta,belimumab,GSK
+takeda_ucb,Entyvio,vedolizumab,Takeda
+takeda_ucb,Cimzia,certolizumab pegol,UCB
+takeda_ucb,Bimzelx,bimekizumab,UCB
+smallcaps,Vyvgart,efgartigimod alfa,argenx (Vyvgart and Vyvgart Hytrulo as reported)
+smallcaps,Opzelura,ruxolitinib cream,Incyte
+smallcaps,Lupkynis,voclosporin,Aurinia
+smallcaps,Zoryve,roflumilast topical,Arcutis
+smallcaps,Vtama,tapinarof,Dermavant/Roivant then possibly Organon (verify)
+smallcaps,Nemluvio,nemolizumab,Galderma

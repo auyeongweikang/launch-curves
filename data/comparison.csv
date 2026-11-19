@@ -1,0 +1,6 @@
+year,launches,p25,median,p75,max,max_drug,cohort_median,Entyvio,Omvoh,abvx_20%,abvx_20%_beaten_by,abvx_20%_above,abvx_40%,abvx_40%_beaten_by,abvx_40%_above,share_20,market,flat_20,flat_20_beaten_by
+1,23,43.4,72.1,174.5,577.0,Skyrizi,80.5,179.0,44.8,295.3,3,"['Dupixent', 'Skyrizi', 'Vyvgart']",590.7,0,[],3.3,8860.4,200.0,5
+2,27,134.3,289.9,598.0,1600.0,Skyrizi,264.4,524.0,108.8,672.7,6,"['Cosentyx', 'Dupixent', 'Nemluvio', 'Rinvoq', 'Skyrizi', 'Vyvgart']",1345.3,1,['Skyrizi'],6.7,10089.9,400.0,13
+3,26,208.4,419.2,924.7,2786.0,Skyrizi,434.4,913.0,174.0,1149.0,5,"['Cosentyx', 'Dupixent', 'Rinvoq', 'Skyrizi', 'Vyvgart']",2298.0,1,['Skyrizi'],10.0,11490.0,600.0,10
+4,25,339.0,632.8,1206.6,4842.0,Skyrizi,675.9,1206.6,,1744.6,4,"['Dupixent', 'Rinvoq', 'Skyrizi', 'Vyvgart']",3489.2,3,"['Dupixent', 'Skyrizi', 'Vyvgart']",13.3,13084.4,800.0,10
+5,19,494.9,882.0,1660.4,7270.0,Skyrizi,920.5,1643.8,,2483.3,3,"['Dupixent', 'Rinvoq', 'Skyrizi']",4966.7,2,"['Dupixent', 'Skyrizi']",16.7,14900,1000.0,9
