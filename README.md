@@ -8,7 +8,7 @@ real launches have done.
 The write-up, with the charts and the conclusions, is project 2 on my portfolio site:
 <https://auyeongweikang.github.io> (type `PRJ 2` in the command bar).
 
-- 2,172 printed figures, each with a link to the document and the table it came from (529 documents).
+- 2,172 printed figures, each with a link to the document and the table it came from (525 documents).
 - 29 launches have a US curve; 28 are compared with the model.
 - Data as collected on 19 November 2026, to the third quarter of 2026.
 
@@ -39,6 +39,10 @@ Open `data/sales_clean.csv` and find the drug and quarter. `source_url` opens th
 document, `source_location` says which table, row and column, and `label_as_printed` is the
 product line as the company wrote it. `value`, `currency` and `unit` are what is printed there;
 `usd_m` is that figure in millions of US dollars (`fx_usd_per_unit` is the rate used).
+
+All 525 links were tested on 19 November 2026 and all opened. Two sites refuse automated
+requests but open in a browser: Eli Lilly's links (which download an Excel workbook) and
+Galderma's.
 
 If you find a wrong figure, please open an issue with the drug, the quarter and what the
 document says.
